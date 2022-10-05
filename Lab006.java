@@ -1,4 +1,5 @@
 /**
+ * Prompts the user for two integers, then states if the first integer is evenly divisible by the second.
  * @Author
  * Taro Oshiro
  * @Version
